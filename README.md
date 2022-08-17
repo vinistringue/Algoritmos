@@ -7,6 +7,6 @@
 
 * Disponibilizei 2 pastas 
    * Exercicios (13 exercicios de algoritmos com solução)
-   * Treinando algoritmos (14 algoritmos aleatórios)
+   * Treinando algoritmos (22 algoritmos aleatórios)
 
 
