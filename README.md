@@ -5,6 +5,6 @@
 
  **Itens do projeto:**
 
-* Disponibilizei 11 exercicios de algoritmos com solução para que possam praticar.
+* Disponibilizei 13 exercicios de algoritmos com solução para que possam praticar.
 
 
