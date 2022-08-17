@@ -5,6 +5,8 @@
 
  **Itens do projeto:**
 
-* Disponibilizei 13 exercicios de algoritmos com solução para que possam praticar.
+* Disponibilizei 2 pastas 
+   * Exercicios (13 exercicios de algoritmos com solução)
+   * Treinando algoritmos (14 algoritmos aleatórios)
 
 
